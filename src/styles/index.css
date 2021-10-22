@@ -1,0 +1,39 @@
+.primary {
+	@apply bg-blue-600;
+	@apply text-white !important;
+}
+
+.primary:hover {
+	@apply bg-blue-700;
+}
+
+/* .normal { */
+/* 	@apply bg-gray-600; */
+/* 	@apply text-white !important; */
+/* } */
+
+/* .danger { */
+/* 	@apply bg-red-600; */
+/* 	@apply text-white !important; */
+/* } */
+
+/* .info { */
+/* 	@apply bg-blue-600; */
+/* 	@apply text-white !important; */
+/* } */
+
+/* .warning { */
+/* 	@apply bg-yellow-600; */
+/* 	@apply text-white !important; */
+/* } */
+
+/* .success { */
+/* 	@apply bg-green-600; */
+/* 	@apply text-white !important; */
+/* } */
+
+/* .link { */
+/* 	@apply bg-white; */
+/* 	@apply text-blue-600 !important; */
+/* 	@apply shadow-none !important; */
+/* } */

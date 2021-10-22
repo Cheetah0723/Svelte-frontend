@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+/build
+/.svelte-kit
+/package
+package-lock.json
+yarn.lock
+.env
+.vercel_build_output
+.svelte-kit
