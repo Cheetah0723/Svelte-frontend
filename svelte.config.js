@@ -14,6 +14,9 @@ const config = {
 		target: '#svelte',
 		adapter: adapter(),
 		vite: {
+			ssr: {
+				external: ['@xstate/svelte']
+			},
 			plugins: [
 				WindiCSS({
 					scan: {
