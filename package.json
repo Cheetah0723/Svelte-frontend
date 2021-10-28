@@ -2,7 +2,7 @@
 	"name": "med",
 	"version": "0.0.1",
 	"scripts": {
-		"dev": "svelte-kit dev --port 80 --host 0.0.0.0",
+		"dev": "svelte-kit dev --port 3000 --host 0.0.0.0",
 		"build": "svelte-kit build",
 		"preview": "svelte-kit preview",
 		"check": "svelte-check --tsconfig ./tsconfig.json",
